@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a Software development major in Southern Alberta Institute of Technology (SAIT). I created this blog page to share my thoughts and spread the knowledge to the public. 
+I'm a Software development major in Southern Alberta Institute of Technology (SAIT). I'm on my working journey to become a web developer. I created this blog page to share my thoughts and spread the knowledge to the public. 
 
 ### Contact me
 
