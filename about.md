@@ -8,4 +8,4 @@ I'm a Software development major in Southern Alberta Institute of Technology (SA
 
 ### Contact me
 
-[email@gmail.com](mailto:nglingshan30@gmail.com)
+[nglingshan30@gmail.com](mailto:nglingshan30@gmail.com)
